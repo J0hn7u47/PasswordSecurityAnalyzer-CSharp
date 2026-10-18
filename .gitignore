@@ -1,0 +1,15 @@
+# C# build files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
