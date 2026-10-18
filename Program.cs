@@ -1,4 +1,7 @@
-﻿using System;
+﻿//This is just the first basic stage of password checker
+
+using 
+System;
 
 class Program
 {
